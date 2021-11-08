@@ -13,3 +13,5 @@ if(resArray.age < 18) {
     document.write("Привет, "+ resArray.name + "!");
     console.log(typeof(resArray.age));
 }
+
+//Добавил комментарий sdsad
